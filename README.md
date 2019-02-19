@@ -34,4 +34,12 @@
 <li>Execute the insert query. </li>
 <li>Insert query will insert all the values into the table with the help of commit() method.</li>
 <li>At the end close object and server connection.</li>
+<li><pre>  Table
++----+-----------+-------+---------+---------+
+| id | class_nme | name  | roll_no | address |
++----+-----------+-------+---------+---------+
+| 14 | 1         | rohit | 1111    | patiala |
+| 15 | 1         | ridhi | 2222    | shimla  |
++----+-----------+-------+---------+---------+
+</pre></li>
 </ol>

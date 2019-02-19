@@ -1,8 +1,9 @@
-# Mysql-with-python
+# Mysql-with-python  
+![data](https://user-images.githubusercontent.com/47202519/52996907-f5563980-3444-11e9-815e-bea5b05f3079.jpg)
 ## Key feature
 ### Create database
 <ol>
-<li>We need to create a table in <strong>python language</strong> and it will store all the values into the <strong>phpmyadmin (database).<strong></li>
+<li>We need to create a table in <strong>python language</strong> and it will store all the values into the <strong>phpmyadmin (database).</strong></li>
 <li>First step :- Create connection between <strong>python language</strong> and <strong>phpmyadmin</strong> with the help of <strong>mysql.connector.</strong></li>
 <li>Now we need to fill all the details of server like :- host, username, password</li>
 <li>Define object via using object() method</li>  
